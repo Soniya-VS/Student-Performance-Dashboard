@@ -2,6 +2,7 @@
 
 ## About the Project
 This project focuses on analyzing student academic performance using Microsoft Power BI. The objective is to identify factors affecting student performance, such as attendance, study hours, subject scores, gender, class, city, internet access, and parent education. The dashboard provides interactive visualizations that help users explore trends and gain meaningful insights from the data.
+The dataset used in this project is a publicly available dataset obtained from Kaggle and has been used solely for learning, analysis, and portfolio purposes.
 
 ---
 
